@@ -8,9 +8,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Text files
-*.txt
-
 # Logs
 *.log
 
