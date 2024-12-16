@@ -59,7 +59,7 @@ The dataset file should be in CSV format (e.g., `iris_kmeans.txt`):
 
 ## Project Structure
 ```
-|-- kmeans_clustering.py
+|-- main.py
 |-- iris_kmeans.txt
 |-- README.md
 ```
