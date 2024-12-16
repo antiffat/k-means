@@ -17,7 +17,7 @@ This project implements the K-Means Clustering algorithm in Python from scratch 
 - `pandas` library
 
 ## Files
-- `kmeans_clustering.py`: Contains the implementation of the K-Means algorithm.
+- `main.py`: Contains the implementation of the K-Means algorithm.
 - `iris_kmeans.txt`: A sample dataset file for testing the algorithm.
 - `README.md`: This documentation file.
 
@@ -37,7 +37,7 @@ This project implements the K-Means Clustering algorithm in Python from scratch 
 1. Place your dataset file in the project directory (e.g., `iris_kmeans.txt`). The file should have feature values in the first columns and actual labels in the last column.
 2. Run the script:
    ```bash
-   python kmeans_clustering.py
+   python main.py
    ```
 3. Enter the number of clusters (`k`) when prompted.
 4. The script will output iteration details, total sum of distances, and purities of each cluster until convergence.
