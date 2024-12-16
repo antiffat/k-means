@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Text files
+*.txt
+
+# Logs
+*.log
+
+# IDE-specific files (e.g., PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Scratch files and extensions
+.scratches/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# External libraries or dependencies
+External Libraries/
+site-packages/
